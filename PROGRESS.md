@@ -18,13 +18,15 @@ This document tracks the development progress of KasKita.
 - [x] Run default Laravel migrations
 - [x] Initialize Git repository
 - [x] Configure `.gitignore`
-- [ ] Create initial Git commit
-- [ ] Create GitHub repository
+- [x] Create initial Git commit
+- [x] Create GitHub repository
+- [x] Push initial project to GitHub
 
 ### 2. Project Documentation
 - [x] Create README.md
 - [x] Create PROGRESS.md
 - [x] Create CHANGELOG.md
+- [x] Create LICENSE
 
 ### 3. Database Design
 - [ ] Define database entities and relationships
